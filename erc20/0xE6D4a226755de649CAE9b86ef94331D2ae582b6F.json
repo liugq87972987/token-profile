@@ -1,0 +1,17 @@
+{
+  "symbol": "MFL",
+  "address": "0xE6D4a226755de649CAE9b86ef94331D2ae582b6F",
+  "overview":{
+        "en": "MFL, an open source project of global block chain community, is committed to building a standardized, process-based and trustworthy chain society.",
+        "zh": "MFL，是全球区块链社区的开源项目，致力于构建一个标准化、流程化的可信任的链上社会。"
+  },  
+  "website": "http://www.mifenglian.io/",
+  "whitepaper": "http://www.mifenglian.io/fonts/MFL white paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-01-10",
+  "initial_price":{
+  },
+  "links": {
+    "twitter": "http://www.mifenglian.io/fonts/MFL white paper.pdf"  
+  }
+}
